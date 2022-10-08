@@ -7,7 +7,7 @@ let numberpeople = Number(numberOfPeople.innerText);
 //calculating toyal bill per person
 const calculateBill = () => {
   // get bill from user input & convert it into a number
-
+d
   // get the tip from user & convert it into a percentage (divide by 100)
 
   // get the total tip amount
